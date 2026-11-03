@@ -1,0 +1,6 @@
+{
+  "name": "विश्व इतिहास: महागाथा",
+  "description": "मानव सभ्यताको प्रारम्भदेखि आधुनिक विश्वसम्मको महान् ऐतिहासिक यात्रा - The Grand Saga of World History in Nepali Devanagari",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
