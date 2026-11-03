@@ -8,6 +8,16 @@
 
 ---
 
+## 📱 Android App (APK Download & Install)
+तपाईं यो एप सिधै आफ्नो एन्ड्रोइड मोबाइलमा डाउनलोड गरी चलाउन सक्नुहुन्छ:
+
+* 📥 **APK फाइल डाउनलोड गर्नुहोस्:** [`release_files/The_Grand_Saga_World_History_v1.0.apk`](release_files/The_Grand_Saga_World_History_v1.0.apk)
+* **साइज:** ~२६ MB
+* **भाषा:** नेपाली देवनागरी (Devanagari Script)
+* **सुविधाहरू:** ७८ ऐतिहासिक अध्यायहरू, १० भाग, समयरेखा, क्विज, पठन थिम, र अडियो वाचक (TTS)।
+
+---
+
 ## 📖 About This Book
 
 **The Grand Saga of World History** is an ambitious historical knowledge project exploring the complete journey of human civilization — from the origins of humanity to the modern world.
